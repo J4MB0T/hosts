@@ -1,5 +1,4 @@
-field4
-_dns.resolver.arpa
+#GB
 a-fds.youborafds01.com
 a1838.dscw154.akamai.net
 a1956.dscw154.akamai.net
@@ -14,6 +13,5 @@ e673.dsce9.akamaiedge.net
 live-gbnews-ssai.simplestreamcdn.com
 ss-streams-api-2-488870620.eu-west-1.elb.amazonaws.com
 thumbnails.simplestreamcdn.com
-transparent
 v1-epg.simplestreamcdn.com
 v2-streams-elb.simplestreamcdn.com
